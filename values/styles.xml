@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="input">
+        <item name="android:layout_width">157dp</item>
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:inputType">numberDecimal</item>
+    </style>
+
+    <style name="blueButtons">
+        <item name="android:layout_width">400dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:backgroundTint">@color/blue</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="greenButtons">
+        <item name="android:layout_width">400dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:backgroundTint">@color/green</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+</resources>
